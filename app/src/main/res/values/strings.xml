@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinalProjectOC</string>
+    <string name="app_slogan">This text view is about app slogan !</string>
+
+    <string name="authentication_button_email">Log in</string>
+
+    <!-- Toolbar string -->
+    <string name="toolbar_item_notification">Notification</string>
+
+    <!-- Drawer String -->
+    <string name="drawer_item_log_out">Log out</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- About Error Message -->
+    <string name="error_authentication_canceled">Authentication canceled</string>
+    <string name="error_no_internet">Authentication failed - No internet</string>
+    <string name="error_unknown_error">Authentication failed - Unknown error</string>
+</resources>
